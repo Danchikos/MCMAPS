@@ -1,0 +1,2 @@
+# MCMAPS
+Minecraft server
